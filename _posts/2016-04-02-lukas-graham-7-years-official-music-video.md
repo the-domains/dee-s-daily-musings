@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Lukas Graham
-    url: 'https://www.youtube.com/user/TheForchhammer'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=LHCob76kigA&list=PLDcnymzs18LVXfO_x0Ei0R24qDbVtyy66&index=3'
+inLanguage: en
+starred: false
 keywords:
   - lukas
   - graham
@@ -21,7 +17,13 @@ keywords:
   - lukasgraham
   - http
 description: '7 Years by Lukas Graham. "A mix of Christiania, Copenhagen and Los Angeles is combined to give you a beautiful imagery to help the song along. I really hope you like it."'
-inLanguage: en
+datePublished: '2016-04-02T08:48:25.950Z'
+dateModified: '2016-04-02T08:45:38.520Z'
+author:
+  - name: Lukas Graham
+    url: 'https://www.youtube.com/user/TheForchhammer'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=LHCob76kigA&list=PLDcnymzs18LVXfO_x0Ei0R24qDbVtyy66&index=3&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=LHCob76kigA&list=PLDcnymzs18LVXfO_x0Ei0R24qDbVtyy66&index=3'
 title: 'Lukas Graham - 7 Years [OFFICIAL MUSIC VIDEO]'
-datePublished: '2016-04-02T08:45:28.601Z'
-dateModified: '2016-04-02T08:42:37.537Z'
 sourcePath: _posts/2016-04-02-lukas-graham-7-years-official-music-video.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
