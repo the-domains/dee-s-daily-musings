@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[Dee's Daily Musings]]></title>
         <description><![CDATA[Dee's Daily Musings]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dee-s-daily-musings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 08:25:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Apr 2016 08:32:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dee-s-daily-musings/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Toy Story Moleskines Are a Convincing Reason to Switch Back to Pen and Paper]]></title>
+            <description><![CDATA[<article><h1>Toy Story Moleskines Are a Convincing Reason to Switch Back to Pen and Paper</h1><p>Even obsessive Evernote users might want to consider switching back to pen and paper now that Moleskine has a new line of Toy Story-themed notebooks featuring artwork from the character style guides that Pixar had created for the original film over 21 years ago.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1ee816391d163c63e14e56399e407e2e085b336.jpg"></article>]]></description>
+            <link>http://toyland.gizmodo.com/toy-story-moleskines-are-a-convincing-reason-to-switch-1768431677#_ga=1.89060059.1152296088.1459585204</link>
+            <guid isPermaLink="false">f6a76711-6bbc-449b-b2ac-7d0bac1b536e</guid>
+            <pubDate>Sat, 02 Apr 2016 08:32:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined4fa2b0c2-c58c-4bf0-9c3e-eb78a44d586b/index.html</link>
+            <description><![CDATA[<p>https://www.youtube.com/watch?v=cMTAUr3Nm6I</p>]]></description>
+            <link>https://thegrid.ai/dee-s-daily-musings/4fa2b0c2-c58c-4bf0-9c3e-eb78a44d586b/index.html</link>
             <guid isPermaLink="false">4fa2b0c2-c58c-4bf0-9c3e-eb78a44d586b</guid>
             <pubDate>Sat, 02 Apr 2016 08:25:25 GMT</pubDate>
         </item>
