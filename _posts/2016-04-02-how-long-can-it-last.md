@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-02T08:56:53.912Z'
-dateModified: '2016-04-02T08:56:35.631Z'
+description: Novelty or not?
+datePublished: '2016-04-02T08:58:04.676Z'
+dateModified: '2016-04-02T08:57:42.473Z'
 title: How long can it last?
+author: []
+sourcePath: _posts/2016-04-02-how-long-can-it-last.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-04-02-how-long-can-it-last.md
-published: true
 url: how-long-can-it-last/index.html
 _type: Article
 
