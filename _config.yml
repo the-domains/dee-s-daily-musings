@@ -1,0 +1,28 @@
+name: "Dee's Daily Musings"
+favicon: null
+layout_spectrum: 0.7524833956267685
+typography_spectrum: 0.09253330039791763
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5102411035913974
+  lightness: 0.6282785313669592
+  saturation: 0.7651847170200199
+  rhythmicContrast: 0.4132341491058469
+purpose: []
